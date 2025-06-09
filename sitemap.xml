@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url>
 	<loc>happsz.site</loc>
-	<lastmod>2025-05-29</lastmod>
+	<lastmod>2025-06-09</lastmod>
 	<changefreq>Weekly</changefreq>
 	<priority>1.0</priority>
 	<image:image>
-	<image:loc>happsz.site/img/happszlogowhite.png</image:loc>
+	<image:loc>happsz.site/img/happszmuwhite.png</image:loc>
 	<image:title>logo</image:title>
 	</image:image>
 	<image:image>
-	<image:loc>happsz.site/img/happszlogowhite.webp</image:loc>
+	<image:loc>happsz.site/img/happszmuwhite.webp</image:loc>
 	<image:title>logo</image:title>
 	</image:image>
 	<image:image>
