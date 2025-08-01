@@ -227,6 +227,11 @@ button{
 	border:2px solid transparent;
 }
 
+/* = Icons
+-------------------------------------------------------------- */
+.icon-md{
+	font-size:30px!important;
+}
 
 
 
@@ -268,6 +273,11 @@ button{
 }
 
 
+/* iFrame */
+
+iframe{
+	border:0;
+}
 
 
 /* ScrollToTop button */
@@ -296,11 +306,6 @@ button{
 	stroke-linecap:round;
 }
 
-/* Hide Object */
-.object-hidden{
-	display:none;
-}
-
 /* = Custom Styling
 -------------------------------------------------------------- */
 
@@ -311,14 +316,19 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 	max-width:1140px;
 }
 .navbar-brand img{
-	width:60px;
-	height:100px;
+	width:100px;
 }
 .h3-style{
 	font-family:Helvetica;
 }
 .img-style{
-	width:666px;
+	width:242px;
+}
+.img-bloc-0-style{
+	opacity:1.0;
+}
+.h6-happszlinksz-style{
+	font-size:36px;
 }
 
 /* = Colour
